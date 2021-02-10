@@ -7,9 +7,7 @@ Sou um desenvolvedor web e curto muito essa área :).
 
 ## Technologies
 - Front - End com HTML, CSS, JS, ReactJS
-- Wordpress
-- UI Design utilizando Figma/Sketch
-- Estudando Swift nas horas vagas
+- Estudando designer de interfaces nas horas vagas
 
 **Languages and Tools:**  
 
