@@ -1,12 +1,13 @@
  # <a href="https://www.linkedin.com/in/jvictor-/">João Victor</a>
  
 ## About Me
-Tenho 18 anos e sou *Téc. em Informática pelo IEMA* (Instituto Estadual de Educação, Ciência e Tecnologia do Maranhão). Além disso, calouro de *Ciência da computação na UFMA* (Universidade Federal do Maranhão). 
+Tenho 18 anos e sou **Téc. em Informática pelo IEMA**  e calouro de **Ciência da computação na UFMA-** Universidade Federal do Maranhão). 
 <br>
-Sou um desenvolvedor web e curto muito essa área :).
+Sou desenvolvedor web e curto muito essa área :).
 
 ## Technologies
-- Front - End com HTML, CSS, JS, ReactJS
+- Front-end com HTML, CSS, JS,
+- Se aventurando no backend com Nodejs e MySql
 - Estudando designer de interfaces nas horas vagas
 
 **Languages and Tools:**  
