@@ -1,7 +1,7 @@
  # <a href="https://www.linkedin.com/in/jvictor-/">João Victor</a>
  
 ## About Me
-Tenho 18 anos e sou técnico em informática pelo Instituto Estadual de Tecnologia, Ciência e Tecnologia do Maranhão. 
+Tenho 18 anos e sou técnico em informática pelo Instituto Estadual de Educação, Ciência e Tecnologia do Maranhão. 
 <br>
 Sou um desenvolvedor web e curto muito essa área :).
 
