@@ -1,8 +1,6 @@
  # <a href="https://www.linkedin.com/in/jvictor-/">João Victor</a>
  
 ## About Me
-Tenho 18 anos e sou **Téc. em Informática pelo IEMA**  e calouro de **Ciência da computação na UFMA-** (Universidade Federal do Maranhão). 
-<br>
 Sou desenvolvedor web e curto muito essa área :).
 
 ## Technologies
