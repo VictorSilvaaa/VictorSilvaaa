@@ -4,8 +4,8 @@
 Sou desenvolvedor web e curto muito essa área :).
 
 ## Technologies
-- Front-end com HTML, CSS, JS,
-- Se aventurando no backend com Nodejs e MySql
+- Front-end com HTML, CSS, JS
+- Backend com PHP
 - Estudando designer de interfaces nas horas vagas
 
 **Languages and Tools:**  
