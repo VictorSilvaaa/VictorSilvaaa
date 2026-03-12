@@ -1,10 +1,7 @@
  # <a href="https://www.linkedin.com/in/jvictor-/">João Victor</a>
  
 ## Resumo Profissional
-Graduando em Ciência da Computação pela UFMA, com formação técnica em Informática pelo IEMA. Atuo
-há mais de 2 anos no desenvolvimento e manutenção de sistemas web, bem como na integração de
-serviços, sempre aplicando boas práticas com HTML, CSS, JavaScript (Vue.js) e PHP (Laravel). Sou proativo,
-comunicativo, com facilidade para trabalhar em equipe, adaptar-me a desafios e resolver problemas.
+Desenvolvedor de Software com 3 anos de experiência no desenvolvimento e manutenção de sistemas web, aplicando boas práticas com PHP (Laravel), JavaScript (Vue.js), HTML e CSS. Com Formação em Ciência da Computação pela UFMA e Téc. Informática pelo IEMA. Sou proativo, comunicativo e tenho facilidade para trabalhar em equipe, adaptar-me a desafios e resolver problemas.
 
 ## Tecnologias
 - Backend com PHP (Laravel) e MySql
